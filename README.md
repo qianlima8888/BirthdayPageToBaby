@@ -11,6 +11,8 @@
 
 ---
 
+fork仓库来自：https://github.com/zjw1111/BirthdayPage
+
 网页主要模板来自：[https://github.com/ayusharma/birthday](https://github.com/ayusharma/birthday)
 
 图片放大脚本来自：[http://www.zhangxinxu.com/wordpress/?p=80](http://www.zhangxinxu.com/wordpress/?p=80)
