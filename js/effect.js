@@ -13,7 +13,7 @@ $('document').ready(function(){
 	system.iPhone = p.appVersion.indexOf("iPhone") > 0;
 	system.iPad = p.appVersion.indexOf("iPad") > 0;
 	if(system.Android||system.iPhone) {
-		$('#cen1').addClass('dis-none');
+		$('#cen2').addClass('dis-none');
 		// $('.balloons').css('background-size', '40px 73.5px');
 		// $('.balloons').css('width', '40px');
 		// $('.balloons').css('height', '73.5px');
@@ -22,7 +22,7 @@ $('document').ready(function(){
 		// wid = $(window).width()*0.8;
 		// hei = $(window).height()*0.6;
 	}else if(system.iPad) {
-		$('#cen2').addClass('dis-none');
+		$('#cen1').addClass('dis-none');
 		// $('.balloons').css('background-size', '90px 164.7px');
 		// $('.balloons').css('width', '90px');
 		// $('.balloons').css('height', '164.7px');
